@@ -1,3 +1,1 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/brachika/pen/dRLOQX.
-
- 
+An experimental app which gets JSON data from a website and parses it so you can generate motivational quotes and also tweet them.
